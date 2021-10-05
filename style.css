@@ -1,0 +1,11 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+.row {
+  border: 1px solid black;
+}
+
+  .col-sm {
+      border: 2px solid pink;
+  }
